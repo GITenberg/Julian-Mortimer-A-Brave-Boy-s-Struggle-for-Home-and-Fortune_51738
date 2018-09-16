@@ -1,0 +1,45 @@
+_repo: Julian-Mortimer-A-Brave-Boy-s-Struggle-for-Home-and-Fortune_51738
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Stockton, Russell
+    gutenberg_agent_id: '49130'
+    url: http://www.gutenberg.org/2009/agents/49130
+  - agent_name: Hacket, Owen
+    gutenberg_agent_id: '49129'
+    url: http://www.gutenberg.org/2009/agents/49129
+creator:
+  author:
+    agent_name: Castlemon, Harry
+    aliases:
+    - Fosdick, Charles Austin
+    - Castlemon, Henry
+    birthdate: 1842
+    deathdate: 1915
+    gutenberg_agent_id: '2274'
+    url: http://www.gutenberg.org/2009/agents/2274
+description: ''
+gutenberg_issued: '2016-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51738'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Trappers -- Juvenile fiction'
+- !lcsh 'Wealth -- Juvenile fiction'
+- !lcsh 'Success -- Juvenile fiction'
+- !lcsh 'Courage -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Outdoor life -- Juvenile fiction'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Diligence -- Juvenile fiction'
+- GITenberg
+tableOfContents: Julian Mortimer, or, a brave boy's struggle for home and fortune
+  / by Harry Castlemon -- An idea and a fortune / by Owen Hackett -- The Grantham
+  diamonds / by Russell Stockton.
+title: 'Julian Mortimer: A Brave Boy''s Struggle for Home and Fortune'
+url: http://www.gutenberg.org/ebooks/51738

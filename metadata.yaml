@@ -1,5 +1,5 @@
 _repo: Julian-Mortimer-A-Brave-Boy-s-Struggle-for-Home-and-Fortune_51738
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributors:
   - agent_name: Stockton, Russell
@@ -8,6 +8,9 @@ contributor:
   - agent_name: Hacket, Owen
     gutenberg_agent_id: '49129'
     url: http://www.gutenberg.org/2009/agents/49129
+covers:
+- cover_type: archival
+  image_path: 51738-h/images/cover.jpg
 creator:
   author:
     agent_name: Castlemon, Harry
@@ -19,6 +22,8 @@ creator:
     gutenberg_agent_id: '2274'
     url: http://www.gutenberg.org/2009/agents/2274
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51738#Julian-Mortimer-A-Brave-Boy-s-Struggle-for-Home-and-Fortune
 gutenberg_issued: '2016-04-12'
 gutenberg_type: Text
 identifiers:
